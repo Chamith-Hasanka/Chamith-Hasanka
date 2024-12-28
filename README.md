@@ -5,8 +5,8 @@
 I'm Chamith Hasanka, a third-year undergraduate at Wayamba University of Sri Lanka, studying Computing and Information Systems, with a focus on Mathematics, Mathematical Modelling, and Statistics.
 
 💻 I’m passionate about programming, data analysis, and problem-solving.
-🔭 Currently, I’m working on projects related to Rapid Application Development (RAD).
-📫 Feel free to connect or collaborate with me on exciting tech projects!
+Currently, I’m working on projects related to Rapid Application Development (RAD).
+Feel free to connect or collaborate with me on exciting tech projects!
 
 <!--
 **Chamith-Hasanka/Chamith-Hasanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
