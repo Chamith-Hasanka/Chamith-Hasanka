@@ -2,10 +2,10 @@
 
 ### Who am I?
 
-I'm Chamith Hasanka, a third-year undergraduate at Wayamba University of Sri Lanka, studying Computing and Information Systems, with a focus on Mathematics, Mathematical Modelling, and Statistics.
+I'm Chamith Hasanka, a fourth-year undergraduate at Wayamba University of Sri Lanka, studying Computing and Information Systems, with a focus on Mathematics, Mathematical Modelling, and Statistics.
 
 💻 I’m passionate about programming, data analysis, and problem-solving.
-Feel free to connect or collaborate with me on exciting tech projects!
+Feel free to connect with or collaborate on exciting tech projects with me!
 
 <!--
 **Chamith-Hasanka/Chamith-Hasanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
